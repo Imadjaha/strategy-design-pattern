@@ -106,3 +106,10 @@ export default App;
 
 ---
 
+## License
+#### Copyright &copy; 2025 [Aimad Bouchouaf]
+
+This code may only be viewed for personal, non-commercial purposes.  
+It may not be copied, modified, published, or used in any projects.  
+
+
